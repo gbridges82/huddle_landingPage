@@ -1,0 +1,11 @@
+body {
+	background-color: #674bb1;
+	color: white;
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	background-image: url('/img/logo.svg');
+
+}
